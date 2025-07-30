@@ -1,4 +1,4 @@
-const { LightThemeFactory, DarkThemeFactory } = require('./themes/theme');
+const { LightThemeFactory, DarkThemeFactory } = require('./abstract -factory/themes/theme');
 
 //client code
 function application(factory) {
