@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": {
     "build":" tsc",
-    "start": "node ./dist/src/bridge/app.js",  
+    "start": "node ./dist/src/decorator/app.js",  
     "dev": "npm run build && npm run start"
   },
   "keywords": [],
